@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\MvvmBinder\\MvvmBinder\\MvvmBinder.csproj",
+      "projectUniqueName": "E:\\Source\\Repos\\MvvmBinder\\MvvmBinder\\MvvmBinder.csproj",
       "projectName": "MvvmBinder",
-      "projectPath": "E:\\Projects\\MvvmBinder\\MvvmBinder\\MvvmBinder.csproj",
+      "projectPath": "E:\\Source\\Repos\\MvvmBinder\\MvvmBinder\\MvvmBinder.csproj",
       "packagesPath": "C:\\Users\\KUVAR\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\MvvmBinder\\MvvmBinder\\obj\\",
+      "outputPath": "E:\\Source\\Repos\\MvvmBinder\\MvvmBinder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
